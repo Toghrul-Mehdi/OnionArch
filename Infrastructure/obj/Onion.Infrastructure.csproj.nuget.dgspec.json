@@ -54,6 +54,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "Microsoft.AspNetCore.Http.Features": {
               "target": "Package",
               "version": "[5.0.17, )"
@@ -178,9 +182,6 @@
             "projectReferences": {
               "C:\\Users\\Victus\\OneDrive\\İş masası\\OnionArch\\Application\\Onion.Application.csproj": {
                 "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\OnionArch\\Application\\Onion.Application.csproj"
-              },
-              "C:\\Users\\Victus\\OneDrive\\İş masası\\OnionArch\\Domain\\Onion.Domain.csproj": {
-                "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\OnionArch\\Domain\\Onion.Domain.csproj"
               }
             }
           }

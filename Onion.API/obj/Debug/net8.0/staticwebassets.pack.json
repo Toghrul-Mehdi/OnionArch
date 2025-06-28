@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Victus\\OneDrive\\İş masası\\OnionArch\\Onion.API\\wwwroot\\images\\9c2b17cc-9457-46ce-8696-9d64037c2a18.png",
+      "PackagePath": "staticwebassets\\images\\9c2b17cc-9457-46ce-8696-9d64037c2a18.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Onion.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Onion.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Onion.API.props",
+      "PackagePath": "build\\Onion.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Onion.API.props",
+      "PackagePath": "buildMultiTargeting\\Onion.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Onion.API.props",
+      "PackagePath": "buildTransitive\\Onion.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

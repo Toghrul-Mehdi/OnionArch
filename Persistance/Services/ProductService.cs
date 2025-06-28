@@ -47,8 +47,8 @@ namespace Onion.Persistance.Services
         public async Task<Product> CreateProductAsync(CreateProductDTOs dto)
         {
             
-            var category = await _categoryReadRepository.GetWhere(c => c.Id == dto.CategoryId).FirstOrDefaultAsync();
-            if (category == null)
+            var products = await _categoryReadRepository.GetWhere(c => c.Id == dto.CategoryId).FirstOrDefaultAsync();
+            if (products == null)
                 throw new Exception($"Category with ID {dto.CategoryId} not found.");
 
             
@@ -73,11 +73,11 @@ namespace Onion.Persistance.Services
         }
 
 
-        public async Task<bool> UpdateProductAsync(UpdateProductDTOs dto)
+        public async Task<bool> UpdateProductAsync(int id,UpdateProductDTOs dto)
         {
-            var existingProduct = await _productReadRepository.GetByIdAsync(dto.Id);
+            var existingProduct = await _productReadRepository.GetByIdAsync(id);
             if (existingProduct == null)
-                throw new Exception($"Product with ID {dto.Id} not found.");
+                throw new Exception($"Product with ID {id} not found.");
 
             var category = await _categoryReadRepository.GetWhere(c => c.Id == dto.CategoryId).FirstOrDefaultAsync();
             if (category == null)

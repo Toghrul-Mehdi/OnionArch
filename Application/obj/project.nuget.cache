@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VWvCrUZPnEg=",
+  "dgSpecHash": "FOpxZY6VPgA=",
   "success": true,
   "projectFilePath": "C:\\Users\\Victus\\OneDrive\\İş masası\\OnionArch\\Application\\Onion.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Victus\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\Victus\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\Victus\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.6\\microsoft.entityframeworkcore.9.0.6.nupkg.sha512",
     "C:\\Users\\Victus\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.6\\microsoft.entityframeworkcore.abstractions.9.0.6.nupkg.sha512",

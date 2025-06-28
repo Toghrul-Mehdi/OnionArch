@@ -1,13 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using FluentValidation;
+using Microsoft.EntityFrameworkCore;
 using Onion.Application.Abstractions.Services;
 using Onion.Application.DTOs.CategoryDTOs;
 using Onion.Application.Repositories;
 using Onion.Domain.Entities.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Onion.Persistance.Services
 {
@@ -15,6 +11,11 @@ namespace Onion.Persistance.Services
     {
         private readonly IWriteRepository<Category> _categoryWriteRepository;
         private readonly IReadRepository<Category> _categoryReadRepository;
+        private readonly IValidator<CreateCategoryDTOs> _createvalidator;
+        private readonly IValidator<UpdateCategoryDTOs> _updatevalidator;
+
+
+
 
         public CategoryService(IWriteRepository<Category> categoryWriteRepository,
                                IReadRepository<Category> categoryReadRepository)
@@ -38,8 +39,23 @@ namespace Onion.Persistance.Services
 
         public async Task<Category> CreateCategoryAsync(CreateCategoryDTOs dto)
         {
-            if (string.IsNullOrWhiteSpace(dto.Name))
-                throw new Exception("Category name cannot be empty.");
+            var validationResult = await _createvalidator.ValidateAsync(dto);
+
+            if (!validationResult.IsValid)
+            {
+                var errors = validationResult.Errors
+    .Select(e => new
+    {
+        PropertyName = e.PropertyName ?? "Bilinməyən sahə",
+        ErrorMessage = e.ErrorMessage ?? "Bilinməyən xəta"
+    })
+    .ToList();
+
+                throw new ValidationException(
+                    $"Validasiya xətaları: {string.Join(", ", errors.Select(x => $"{x.PropertyName}: {x.ErrorMessage}"))}");
+
+            }
+
 
             var category = new Category
             {
@@ -53,13 +69,24 @@ namespace Onion.Persistance.Services
             await _categoryWriteRepository.SaveAsync();
             return category;
         }
-        public async Task<bool> UpdateCategoryAsync(UpdateCategoryDTOs category)
+        public async Task<bool> UpdateCategoryAsync(int id, UpdateCategoryDTOs dto)
         {
-            var existingCategory = await _categoryReadRepository.GetByIdAsync(category.Id);
-            if (existingCategory == null)
-                throw new Exception($"Product with ID {category.Id} not found.");
+            var validationResult = await _updatevalidator.ValidateAsync(dto);
 
-            existingCategory.Name = category.Name;
+            if (!validationResult.IsValid)
+            {
+                var errors = validationResult.Errors
+                    .Select(e => new { e.PropertyName, e.ErrorMessage })
+                    .ToList();
+
+                throw new ValidationException($"Validasiya xətaları: {string.Join(", ", errors.Select(x => $"{x.PropertyName}: {x.ErrorMessage}"))}");
+            }
+
+            var existingCategory = await _categoryReadRepository.GetByIdAsync(id);
+            if (existingCategory == null)
+                throw new Exception($"Product with ID {id} not found.");
+
+            existingCategory.Name = dto.Name;
 
 
             var updated = _categoryWriteRepository.Update(existingCategory);

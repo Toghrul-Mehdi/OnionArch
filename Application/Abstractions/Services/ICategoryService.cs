@@ -13,7 +13,7 @@ namespace Onion.Application.Abstractions.Services
         Task<List<Category>> GetAllCategoriesAsync();
         Task<Category> GetCategoryByIdAsync(int id);
         Task<Category> CreateCategoryAsync(CreateCategoryDTOs category);
-        Task<bool> UpdateCategoryAsync(UpdateCategoryDTOs category);
+        Task<bool> UpdateCategoryAsync(int id,UpdateCategoryDTOs category);
         Task<bool> DeleteCategoryAsync(int id);
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Domain\bin\Debug\net8.0\Onion.Domain.deps.json
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Domain\bin\Debug\net8.0\Onion.Domain.dll
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Domain\bin\Debug\net8.0\Onion.Domain.pdb
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Domain\obj\Debug\net8.0\Onion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Domain\obj\Debug\net8.0\Onion.Domain.AssemblyInfoInputs.cache
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Domain\obj\Debug\net8.0\Onion.Domain.AssemblyInfo.cs
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Domain\obj\Debug\net8.0\Onion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Domain\obj\Debug\net8.0\Onion.Domain.sourcelink.json
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Domain\obj\Debug\net8.0\Onion.Domain.dll
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Domain\obj\Debug\net8.0\refint\Onion.Domain.dll
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Domain\obj\Debug\net8.0\Onion.Domain.pdb
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Domain\obj\Debug\net8.0\ref\Onion.Domain.dll

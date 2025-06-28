@@ -1,0 +1,16 @@
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\bin\Debug\net8.0\Onion.Application.deps.json
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\bin\Debug\net8.0\Onion.Application.dll
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\bin\Debug\net8.0\Onion.Application.pdb
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\bin\Debug\net8.0\Onion.Domain.dll
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\bin\Debug\net8.0\Onion.Domain.pdb
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\obj\Debug\net8.0\Onion.Application.csproj.AssemblyReference.cache
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\obj\Debug\net8.0\Onion.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\obj\Debug\net8.0\Onion.Application.AssemblyInfoInputs.cache
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\obj\Debug\net8.0\Onion.Application.AssemblyInfo.cs
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\obj\Debug\net8.0\Onion.Application.csproj.CoreCompileInputs.cache
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\obj\Debug\net8.0\Onion.Application.sourcelink.json
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\obj\Debug\net8.0\Onion.Ap.01DAD76B.Up2Date
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\obj\Debug\net8.0\Onion.Application.dll
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\obj\Debug\net8.0\refint\Onion.Application.dll
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\obj\Debug\net8.0\Onion.Application.pdb
+C:\Users\Victus\OneDrive\İş masası\OnionArch\Application\obj\Debug\net8.0\ref\Onion.Application.dll

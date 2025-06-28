@@ -13,7 +13,7 @@ namespace Onion.Application.Abstractions.Services
         Task<List<Product>> GetAllProductsAsync();
         Task<Product> GetProductByIdAsync(int id);
         Task<Product> CreateProductAsync(CreateProductDTOs product);
-        Task<bool> UpdateProductAsync(UpdateProductDTOs product);
+        Task<bool> UpdateProductAsync(int id,UpdateProductDTOs product);
         Task<bool> DeleteProductAsync(int id);
     }
 

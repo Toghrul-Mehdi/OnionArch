@@ -3,48 +3,116 @@
   "WorkspaceRootPath": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BCF2111-3BEA-418C-8C9A-1A99EE993C4B}|Onion.API\\Onion.API.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\onion.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BCF2111-3BEA-418C-8C9A-1A99EE993C4B}|Onion.API\\Onion.API.csproj|solutionrelative:onion.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\persistance\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|solutionrelative:persistance\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|solutionrelative:persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\persistance\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|solutionrelative:persistance\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BCF2111-3BEA-418C-8C9A-1A99EE993C4B}|Onion.API\\Onion.API.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\onion.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCF2111-3BEA-418C-8C9A-1A99EE993C4B}|Onion.API\\Onion.API.csproj|solutionrelative:onion.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCF2111-3BEA-418C-8C9A-1A99EE993C4B}|Onion.API\\Onion.API.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\onion.api\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCF2111-3BEA-418C-8C9A-1A99EE993C4B}|Onion.API\\Onion.API.csproj|solutionrelative:onion.api\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\application\\validators\\productvalidator\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|solutionrelative:application\\validators\\productvalidator\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\application\\validators\\categoryvalidator\\createcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|solutionrelative:application\\validators\\categoryvalidator\\createcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Migrations\\20250628111130_UpdatedTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistance\\Migrations\\20250628111130_UpdatedTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\application\\validators\\productvalidator\\updateproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|solutionrelative:application\\validators\\productvalidator\\updateproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\application\\dtos\\productdtos\\updateproductdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|solutionrelative:application\\dtos\\productdtos\\updateproductdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\application\\validators\\categoryvalidator\\updatecategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|solutionrelative:application\\validators\\categoryvalidator\\updatecategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\persistance\\entityconfigurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|solutionrelative:persistance\\entityconfigurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68EA7B8-E46D-437C-B718-B70F7B893BF8}|Domain\\Onion.Domain.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\domain\\entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68EA7B8-E46D-437C-B718-B70F7B893BF8}|Domain\\Onion.Domain.csproj|solutionrelative:domain\\entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|solutionrelative:persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\persistance\\entityconfigurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|solutionrelative:persistance\\entityconfigurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68EA7B8-E46D-437C-B718-B70F7B893BF8}|Domain\\Onion.Domain.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68EA7B8-E46D-437C-B718-B70F7B893BF8}|Domain\\Onion.Domain.csproj|solutionrelative:domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\persistance\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|solutionrelative:persistance\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\persistance\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|solutionrelative:persistance\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\application\\abstractions\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|solutionrelative:application\\abstractions\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\application\\abstractions\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|solutionrelative:application\\abstractions\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BCF2111-3BEA-418C-8C9A-1A99EE993C4B}|Onion.API\\Onion.API.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\onion.api\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCF2111-3BEA-418C-8C9A-1A99EE993C4B}|Onion.API\\Onion.API.csproj|solutionrelative:onion.api\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\application\\dtos\\categorydtos\\createcategorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|solutionrelative:application\\dtos\\categorydtos\\createcategorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Migrations\\20250628102805_CreatedTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistance\\Migrations\\20250628102805_CreatedTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCF2111-3BEA-418C-8C9A-1A99EE993C4B}|Onion.API\\Onion.API.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\onion.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BCF2111-3BEA-418C-8C9A-1A99EE993C4B}|Onion.API\\Onion.API.csproj|solutionrelative:onion.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\application\\abstractions\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|solutionrelative:application\\abstractions\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\application\\dtos\\categorydtos\\updatecategorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|solutionrelative:application\\dtos\\categorydtos\\updatecategorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|solutionrelative:application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\application\\abstractions\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|solutionrelative:application\\abstractions\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\application\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|solutionrelative:application\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F68EA7B8-E46D-437C-B718-B70F7B893BF8}|Domain\\Onion.Domain.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\domain\\entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F68EA7B8-E46D-437C-B718-B70F7B893BF8}|Domain\\Onion.Domain.csproj|solutionrelative:domain\\entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28488D88-5097-4894-B28D-A1D99B78BC36}|Application\\Onion.Application.csproj|solutionrelative:application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\persistance\\repositories\\categoryrepositories\\categorywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|solutionrelative:persistance\\repositories\\categoryrepositories\\categorywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\persistance\\repositories\\categoryrepositories\\categoryreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|solutionrelative:persistance\\repositories\\categoryrepositories\\categoryreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\persistance\\repositories\\productrepositories\\productwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,16 +123,8 @@
       "RelativeMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|solutionrelative:persistance\\repositories\\productrepositories\\productreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\persistance\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|solutionrelative:persistance\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4420D1A9-4BA0-41B2-88A8-1B84F937399B}|Persistance\\Onion.Persistance.csproj|solutionrelative:persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F68EA7B8-E46D-437C-B718-B70F7B893BF8}|Domain\\Onion.Domain.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\onionarch\\domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F68EA7B8-E46D-437C-B718-B70F7B893BF8}|Domain\\Onion.Domain.csproj|solutionrelative:domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,89 +134,288 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 24,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "20250628111130_UpdatedTable.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Migrations\\20250628111130_UpdatedTable.cs",
+              "RelativeDocumentMoniker": "Persistance\\Migrations\\20250628111130_UpdatedTable.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Migrations\\20250628111130_UpdatedTable.cs",
+              "RelativeToolTip": "Persistance\\Migrations\\20250628111130_UpdatedTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:11:31.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Validators\\ProductValidator\\UpdateProductValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\ProductValidator\\UpdateProductValidator.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Validators\\ProductValidator\\UpdateProductValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\ProductValidator\\UpdateProductValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:02:18.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Validators\\ProductValidator\\CreateProductValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\ProductValidator\\CreateProductValidator.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Validators\\ProductValidator\\CreateProductValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\ProductValidator\\CreateProductValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:56:47.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateCategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Validators\\CategoryValidator\\UpdateCategoryValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\CategoryValidator\\UpdateCategoryValidator.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Validators\\CategoryValidator\\UpdateCategoryValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\CategoryValidator\\UpdateCategoryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:55:27.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Validators\\CategoryValidator\\CreateCategoryValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\CategoryValidator\\CreateCategoryValidator.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Validators\\CategoryValidator\\CreateCategoryValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\CategoryValidator\\CreateCategoryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:51:41.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250628102805_CreatedTable.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Migrations\\20250628102805_CreatedTable.cs",
+              "RelativeDocumentMoniker": "Persistance\\Migrations\\20250628102805_CreatedTable.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Migrations\\20250628102805_CreatedTable.cs",
+              "RelativeToolTip": "Persistance\\Migrations\\20250628102805_CreatedTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:28:05.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Repositories\\CategoryRepositories\\CategoryWriteRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\Repositories\\CategoryRepositories\\CategoryWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Repositories\\CategoryRepositories\\CategoryWriteRepository.cs",
+              "RelativeToolTip": "Persistance\\Repositories\\CategoryRepositories\\CategoryWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:03:16.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Repositories\\CategoryRepositories\\CategoryReadRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\Repositories\\CategoryRepositories\\CategoryReadRepository.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Repositories\\CategoryRepositories\\CategoryReadRepository.cs",
+              "RelativeToolTip": "Persistance\\Repositories\\CategoryRepositories\\CategoryReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:00:38.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Onion.API\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "Onion.API\\Controller\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Onion.API\\Controller\\ProductController.cs",
+              "RelativeToolTip": "Onion.API\\Controller\\ProductController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:46:24.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\EntityConfigurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistance\\EntityConfigurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\EntityConfigurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "Persistance\\EntityConfigurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:43:35.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\EntityConfigurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistance\\EntityConfigurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\EntityConfigurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Persistance\\EntityConfigurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:41:19.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Persistance\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Persistance\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T19:42:27.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Onion.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Onion.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Onion.API\\appsettings.json",
+              "RelativeToolTip": "Onion.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T19:15:55.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateProductDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\DTOs\\ProductDTOs\\UpdateProductDTOs.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ProductDTOs\\UpdateProductDTOs.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\DTOs\\ProductDTOs\\UpdateProductDTOs.cs",
+              "RelativeToolTip": "Application\\DTOs\\ProductDTOs\\UpdateProductDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T19:06:28.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Onion.API\\Controller\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Onion.API\\Controller\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Onion.API\\Controller\\CategoryController.cs",
+              "RelativeToolTip": "Onion.API\\Controller\\CategoryController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T18:44:57.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Onion.API\\Program.cs",
               "RelativeDocumentMoniker": "Onion.API\\Program.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Onion.API\\Program.cs",
               "RelativeToolTip": "Onion.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T22:29:13.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Abstractions\\Services\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Application\\Abstractions\\Services\\ICategoryService.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Abstractions\\Services\\ICategoryService.cs",
               "RelativeToolTip": "Application\\Abstractions\\Services\\ICategoryService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T22:18:55.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
               "Title": "UpdateCategoryDTOs.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\DTOs\\CategoryDTOs\\UpdateCategoryDTOs.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\CategoryDTOs\\UpdateCategoryDTOs.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\DTOs\\CategoryDTOs\\UpdateCategoryDTOs.cs",
               "RelativeToolTip": "Application\\DTOs\\CategoryDTOs\\UpdateCategoryDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T22:17:08.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "CreateCategoryDTOs.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\DTOs\\CategoryDTOs\\CreateCategoryDTOs.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\CategoryDTOs\\CreateCategoryDTOs.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\DTOs\\CategoryDTOs\\CreateCategoryDTOs.cs",
               "RelativeToolTip": "Application\\DTOs\\CategoryDTOs\\CreateCategoryDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T22:16:53.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 25,
               "Title": "IReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Repositories\\IReadRepository.cs",
               "RelativeDocumentMoniker": "Application\\Repositories\\IReadRepository.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Repositories\\IReadRepository.cs",
               "RelativeToolTip": "Application\\Repositories\\IReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAASwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwAoAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T22:01:07.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "IWriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Repositories\\IWriteRepository.cs",
               "RelativeDocumentMoniker": "Application\\Repositories\\IWriteRepository.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Repositories\\IWriteRepository.cs",
               "RelativeToolTip": "Application\\Repositories\\IWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAASwA4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAASwA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T22:00:46.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Domain\\Entities\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Models\\Product.cs",
@@ -169,39 +428,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 23,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Abstractions\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "Application\\Abstractions\\Services\\IProductService.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Application\\Abstractions\\Services\\IProductService.cs",
               "RelativeToolTip": "Application\\Abstractions\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T21:55:21.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "Persistance\\Services\\CategoryService.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Services\\CategoryService.cs",
               "RelativeToolTip": "Persistance\\Services\\CategoryService.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwEMAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwEwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T21:51:47.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Persistance\\Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Services\\ProductService.cs",
               "RelativeToolTip": "Persistance\\Services\\ProductService.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAowGQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwCUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T21:51:21.468Z",
               "EditorCaption": ""
@@ -214,79 +473,75 @@
               "RelativeDocumentMoniker": "Persistance\\ServiceRegistration.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\ServiceRegistration.cs",
               "RelativeToolTip": "Persistance\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T21:49:27.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 28,
               "Title": "ProductWriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Repositories\\ProductRepositories\\ProductWriteRepository.cs",
               "RelativeDocumentMoniker": "Persistance\\Repositories\\ProductRepositories\\ProductWriteRepository.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Repositories\\ProductRepositories\\ProductWriteRepository.cs",
               "RelativeToolTip": "Persistance\\Repositories\\ProductRepositories\\ProductWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T21:48:57.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 29,
               "Title": "ProductReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Repositories\\ProductRepositories\\ProductReadRepository.cs",
               "RelativeDocumentMoniker": "Persistance\\Repositories\\ProductRepositories\\ProductReadRepository.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Repositories\\ProductRepositories\\ProductReadRepository.cs",
               "RelativeToolTip": "Persistance\\Repositories\\ProductRepositories\\ProductReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T21:48:33.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 30,
               "Title": "ReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Repositories\\ReadRepository.cs",
               "RelativeDocumentMoniker": "Persistance\\Repositories\\ReadRepository.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Repositories\\ReadRepository.cs",
               "RelativeToolTip": "Persistance\\Repositories\\ReadRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBAAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T21:47:11.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Domain\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Common\\BaseEntity.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Domain\\Entities\\Common\\BaseEntity.cs",
               "RelativeToolTip": "Domain\\Entities\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T21:46:18.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "WriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Repositories\\WriteRepository.cs",
               "RelativeDocumentMoniker": "Persistance\\Repositories\\WriteRepository.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\OnionArch\\Persistance\\Repositories\\WriteRepository.cs",
               "RelativeToolTip": "Persistance\\Repositories\\WriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T21:45:17.376Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

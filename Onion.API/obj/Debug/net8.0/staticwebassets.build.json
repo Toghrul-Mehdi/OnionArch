@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "1cSiczFd10dt/5PE9V9/+o+xkj1dCJMppSutz2GuOVE=",
+  "Source": "Onion.API",
+  "BasePath": "_content/Onion.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Onion.API\\wwwroot",
+      "Source": "Onion.API",
+      "ContentRoot": "C:\\Users\\Victus\\OneDrive\\İş masası\\OnionArch\\Onion.API\\wwwroot\\",
+      "BasePath": "_content/Onion.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Victus\\OneDrive\\İş masası\\OnionArch\\Onion.API\\wwwroot\\images\\9c2b17cc-9457-46ce-8696-9d64037c2a18.png",
+      "SourceId": "Onion.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Victus\\OneDrive\\İş masası\\OnionArch\\Onion.API\\wwwroot\\",
+      "BasePath": "_content/Onion.API",
+      "RelativePath": "images/9c2b17cc-9457-46ce-8696-9d64037c2a18#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hfzar7pb94",
+      "Integrity": "3ZgEvh6gK4Zz1lgsCEVdvN3X4oILPAQrl8jqyQp/HhE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9c2b17cc-9457-46ce-8696-9d64037c2a18.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/9c2b17cc-9457-46ce-8696-9d64037c2a18.hfzar7pb94.png",
+      "AssetFile": "C:\\Users\\Victus\\OneDrive\\İş masası\\OnionArch\\Onion.API\\wwwroot\\images\\9c2b17cc-9457-46ce-8696-9d64037c2a18.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "702665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ZgEvh6gK4Zz1lgsCEVdvN3X4oILPAQrl8jqyQp/HhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 10:36:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hfzar7pb94"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9c2b17cc-9457-46ce-8696-9d64037c2a18.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ZgEvh6gK4Zz1lgsCEVdvN3X4oILPAQrl8jqyQp/HhE="
+        }
+      ]
+    },
+    {
+      "Route": "images/9c2b17cc-9457-46ce-8696-9d64037c2a18.png",
+      "AssetFile": "C:\\Users\\Victus\\OneDrive\\İş masası\\OnionArch\\Onion.API\\wwwroot\\images\\9c2b17cc-9457-46ce-8696-9d64037c2a18.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "702665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ZgEvh6gK4Zz1lgsCEVdvN3X4oILPAQrl8jqyQp/HhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 10:36:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ZgEvh6gK4Zz1lgsCEVdvN3X4oILPAQrl8jqyQp/HhE="
+        }
+      ]
+    }
+  ]
+}
